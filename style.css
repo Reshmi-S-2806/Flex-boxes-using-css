@@ -1,0 +1,27 @@
+body{
+    background-color: aqua;
+}
+.re{
+    background-color: black;
+    width: 250px;
+    height: 350px;
+    display: flex;
+    flex-basis: 20%;
+    flex-grow: 1;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    margin-left: 35%;
+    padding: 2px;
+    margin-top: 12%;
+}
+h1{
+    background-color: chocolate;
+    text-align: center;
+    padding: 2px;
+    margin: 8px;
+    border-radius: 20px;
+    color: chocolate;
+}
